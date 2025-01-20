@@ -1,12 +1,12 @@
-# Lola Tech & Friends Code of Conduct
+# DataArt & Friends Code of Conduct
 
 ## 1. Purpose
 
-A primary goal of Lola Tech & Friends is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of DataArt Tech & Friends is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in Lola Tech & Friends to help us create safe and positive experiences for everyone.
+We invite all those who participate in DataArt Tech & Friends to help us create safe and positive experiences for everyone.
 
 ## 2. Open Tech Citizenship
 
@@ -53,7 +53,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. rupert@lola.tech.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. rupert@DataArt.tech.
 
 
 
@@ -61,7 +61,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 7. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify lola-tech with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify DataArt-tech with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
 
 
 
@@ -73,7 +73,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-rupert@lola.tech
+pr.clj@dataart.com
 
 ## 10. License and attribution
 
